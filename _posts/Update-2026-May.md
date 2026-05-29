@@ -52,9 +52,10 @@ This gives me a solid environment to:
 
 Right now, my biggest focus areas are:
 
+* AI-assisted workflows
 * Security Engineering
 * Automation
 * Detection Engineering
-* AI-assisted workflows
+
 
 Still a lot to learn, but excited to keep building.
