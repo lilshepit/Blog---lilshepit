@@ -1,6 +1,6 @@
 ---
-title: "IT : The Start"
-date: 2025-01-07
+title: "Life Update : Senior Engineer"
+date: 2026-05-28
 ---
 
 # 1 Year and 4 Months Later
