@@ -1,3 +1,8 @@
+---
+title: "IT : The Start"
+date: 2025-01-07
+---
+
 # 1 Year and 4 Months Later
 
 As you can see, I’ve been extremely consistent with posting here 🙂
